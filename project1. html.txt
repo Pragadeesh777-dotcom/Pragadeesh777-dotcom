@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANIMATION</title>
+</head>
+<html>
+<link rel="stylesheet" href="style.css">
+
+<body>
+    <div class="one">
+        <nav>
+            <h>Menu</h>
+            <ul type="none" class="on">
+                <li><a href="https://www.figma.com/proto/xlsUQXnt316jQxwZ7PSxWW/Untitled?node-id=5-28&p=f&t=ReIZAXrpBdqn6MsG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2" target="_blank" style="color: aqua;">Home|</a></li>
+                <li>
+                    <a href="https://www.foodindustry.com/" target="_blank" style="color: aqua;">Products |</a>
+                </li>
+
+                <li style="color: aqua;"> About |</li>
+                <li style="color: aqua;">content</li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="search">
+        <input type="text" placeholder="SEARCH"> </div>
+
+    <div class="low1">
+        <img src="WhatsApp Image 2024-12-31 at 20.14.06_e1d71aa7.jpg" width="200px">
+
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla atque sunt corrupti, at debitis totam fugiat laudantium iure dolorum tempora harum quo rerum reiciendis quis eos eius autem blanditiis deleniti? ipsum dolor sit amet consectetur adipisicing
+            elit. Delectus ipsa in ut beatae? Dolor minima quidem sequi cumque eveniet suscipit quae ducimus, autem nobis velit quis nemo laudantium. Dolores quia facilis aspernatur mollitia. Quidem ullam laborum voluptas consequatur temporibus alias!
+            ipsum dolor sit amet consectetur, adipisicing elit. Ullam ea ut praesentium, labore ab temporibus. Aperiam perferendis mollitia similique, doloremque pariatur aspernatur, possimus quam aliquam modi dignissimos magni! Ipsam totam sunt corporis.
+            Assumenda vero sit nobis maiores consequuntur alias velit. ipsum, dolor sit amet consectetur adipisicing elit. Ab perspiciatis dolore ullam dolor dicta! Inventore, odit eum? Error, molestias provident!
+        </p>
+    </div>
+    <div class="low2"><img src="WhatsApp Image 2024-12-31 at 20.14.06_e1d71aa7.jpg" width="200px">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla atque sunt corrupti, at debitis totam fugiat laudantium iure dolorum tempora harum quo rerum reiciendis quis eos eius autem blanditiis deleniti? ipsum dolor sit amet consectetur adipisicing
+            elit. Delectus ipsa in ut beatae? Dolor minima quidem sequi cumque eveniet suscipit quae ducimus, autem nobis velit quis nemo laudantium. Dolores quia facilis aspernatur mollitia. Quidem ullam laborum voluptas consequatur temporibus alias!
+            ipsum dolor sit amet consectetur, adipisicing elit. Ullam ea ut praesentium, labore ab temporibus. Aperiam perferendis mollitia similique, doloremque pariatur aspernatur, possimus quam aliquam modi dignissimos magni! Ipsam totam sunt corporis.
+            Assumenda vero sit nobis maiores consequuntur alias velit. ipsum, dolor sit amet consectetur adipisicing elit. Ab perspiciatis dolore ullam dolor dicta! Inventore, odit eum? Error, molestias provident! </p>
+    </div>
+    <div class="box">
+        <img src="WhatsApp Image 2024-12-31 at 20.14.06_e1d71aa7.jpg" width="200px">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla atque sunt corrupti, at debitis totam fugiat laudantium iure dolorum tempora harum quo rerum reiciendis quis eos eius autem blanditiis deleniti? ipsum dolor sit amet consectetur adipisicing
+            elit. Delectus ipsa in ut beatae? Dolor minima quidem sequi cumque eveniet suscipit quae ducimus, autem nobis velit quis nemo laudantium. Dolores quia facilis aspernatur mollitia. Quidem ullam laborum voluptas consequatur temporibus alias!
+            ipsum dolor sit amet consectetur, adipisicing elit. Ullam ea ut praesentium, labore ab temporibus. Aperiam perferendis mollitia similique, doloremque pariatur aspernatur, possimus quam aliquam modi dignissimos magni! Ipsam totam sunt corporis.
+            Assumenda vero sit nobis maiores consequuntur alias velit. ipsum, dolor sit amet consectetur adipisicing elit. Ab perspiciatis dolore ullam dolor dicta! Inventore, odit eum? Error, molestias provident! </p>
+    </div>
+    <span class="three">
+        <hr>
+        <h1>ABOUT US</h1>
+        <p class="four">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam, ipsa fuga tempora incidunt nesciunt quas facilis quae ullam laudantium laboriosam repudiandae illum aliquid. Quos vel vero sunt illo enim, at autem, saepe est sequi, commodi ad eos placeat aspernatur dolores perferendis nostrum eaque voluptatum fugiat? Temporibus in inventore ducimus, assumenda odit, minus incidunt sed, eveniet esse fugiat veniam vel recusandae dignissimos laborum. Aliquid, voluptatem, quos hic nesciunt praesentium dolorem neque earum numquam iste veniam, minus ipsa esse consequatur eos adipisci! Exercitationem nostrum fugit quas velit fugiat quibusdam inventore in perspiciatis magnam quis. Incidunt iure amet et ipsam esse dolor illo?</p>
+        </span>
+
+</body>
+
+
+</html>
